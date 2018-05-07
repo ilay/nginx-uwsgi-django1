@@ -1,3 +1,4 @@
+# Source From https://github.com/tiangolo/uwsgi-nginx-docker/tree/master/python3.6
 FROM tiangolo/uwsgi-nginx:python3.6
 
 RUN apt-get update -y
